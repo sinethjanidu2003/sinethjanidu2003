@@ -39,3 +39,13 @@ My current focus is on Computer Programming and Analysis, where I am actively ho
 
 
 </p>
+
+<h3 align="left">Conect : </h3>
+<p align="center"> 
+  <a href="https://www.instagram.com/sineth_janidu/">
+    <img alt="Instagram" src="https://img.shields.io/badge/mr__thinkswell-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+    
+<a href="https://www.linkedin.com/in/sinethmihiran/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
