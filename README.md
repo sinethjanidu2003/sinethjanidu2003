@@ -71,3 +71,7 @@
 <a href="https://www.linkedin.com/in/sinethmihiran/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<a href="mailto:sineth.janidu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-%23D14836?style=for-the-badge&logo=email&logoColor=white" alt="Email Me">
+</a>
