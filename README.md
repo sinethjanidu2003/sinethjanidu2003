@@ -12,12 +12,6 @@
 - Currently enrolled in Computer Programming and Analysis, passionately enhancing my skills and knowledge in the field.
 
 
-## 🚀 About Me
-
-I am a determined and enthusiastic individual with a deep-rooted passion for technology and its limitless possibilities. My journey in computer science began at Edith Cowan University, where I completed my first year of studies, providing me with a solid foundation in this dynamic field.
-
-My current focus is on Computer Programming and Analysis, where I am actively honing my skills to stay at the forefront of industry trends and innovations. I am committed to contributing to the ever-evolving world of technology, where creativity and problem-solving meet.
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
