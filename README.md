@@ -33,6 +33,9 @@ My current focus is on Computer Programming and Analysis, where I am actively ho
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Android%20Studio-%2300CFFF.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+<img src="https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+
 
 
 </p>
