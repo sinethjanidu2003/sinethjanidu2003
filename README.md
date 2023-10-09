@@ -62,7 +62,7 @@ My current focus is on Computer Programming and Analysis, where I am actively ho
     </td>
      <td>
        <a href="https://www.github.com/thinkswell">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=sinethjanidu2003&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=sinethjanidu2003&repo=Auth-Express-JS&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
   </tr>
