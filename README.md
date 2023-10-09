@@ -38,24 +38,24 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.github.com/thinkswell">
+      <a href="https://www.github.com/sinethjanidu2003">
      <img src="https://github-readme-stats.vercel.app/api?username=sinethjanidu2003&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
       </a>
     </td>
     <td> 
-      <a href="https://www.github.com/thinkswell">
+      <a href="https://www.github.com/sinethjanidu2003">
        <img src ="http://github-readme-streak-stats.herokuapp.com?user=sinethjanidu2003&hide_border=true&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/thinkswell">
+      <a href="https://www.github.com/sinethjanidu2003">
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sinethjanidu2003&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/thinkswell">
+       <a href="https://www.github.com/sinethjanidu2003">
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=sinethjanidu2003&repo=Auth-Express-JS&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
