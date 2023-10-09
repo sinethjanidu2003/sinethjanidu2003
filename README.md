@@ -40,7 +40,7 @@ My current focus is on Computer Programming and Analysis, where I am actively ho
 
 </p>
 
-<h3 align="left">Conect : </h3>
+<h3 align="left">Connect : </h3>
 <p align="center"> 
   <a href="https://www.instagram.com/sineth_janidu/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-SINETH_JANIDU-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SINETH_JANIDU/"/>
