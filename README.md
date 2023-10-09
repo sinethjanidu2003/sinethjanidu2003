@@ -43,7 +43,7 @@ My current focus is on Computer Programming and Analysis, where I am actively ho
 <h3 align="left">Conect : </h3>
 <p align="center"> 
   <a href="https://www.instagram.com/sineth_janidu/">
-    <img alt="Instagram" src="https://img.shields.io/badge/mr__thinkswell-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-SINETH_JANIDU-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SINETH_JANIDU/"/>
   </a>
     
 <a href="https://www.linkedin.com/in/sinethmihiran/">
