@@ -55,7 +55,7 @@
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/sinethjanidu2003">
+       <a href="https://github.com/sinethjanidu2003/Auth-Express-JS">
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=sinethjanidu2003&repo=Auth-Express-JS&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
